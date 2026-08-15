@@ -1,6 +1,4 @@
-class Solution:
-    def longestSubsequence(self, nums: List[int]) -> int:
-        from typing import List
+from typing import List
 
 class Solution:
     def longestSubsequence(self, nums: List[int]) -> int:
